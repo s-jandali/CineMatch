@@ -1,0 +1,15 @@
+pandas
+numpy
+ast
+nltk.stem.porter
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
+joblib
+surprise
+sklearn.preprocessing
+scipy.sparse
+streamlit
+google
+requests
+requests.adapters
+urllib3.util.retry
